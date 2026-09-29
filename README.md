@@ -1,6 +1,6 @@
 # Daisho Yokoyama 👋
 
-札幌在住のフルスタックエンジニア。信条は「速さ」と「優れた UX」の両立です。
+信条は「速さ」と「優れた UX」の両立。
 
 ## Tech Stack
 
@@ -22,10 +22,3 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**DB & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
