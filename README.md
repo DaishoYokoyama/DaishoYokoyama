@@ -1,7 +1,3 @@
-# Daisho Yokoyama 👋
-
-信条は「速さ」と「優れた UX」の両立。
-
 ## Tech Stack
 
 **Languages & Frameworks**
